@@ -97,6 +97,14 @@ The following metrics were analyzed:
 
 ---
 
+## Interactive Dashboard
+
+Click below to explore the interactive report:
+
+➡️ **[View Power BI Dashboard](https://app.powerbi.com/links/B7xy31YgnZ?ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5&pbi_source=linkShare)**
+
+---
+
 # Repository Structure
 
 GA4/

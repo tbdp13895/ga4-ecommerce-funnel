@@ -6,6 +6,18 @@ This project simulates a real-world analytics workflow used by data analysts to 
 
 ---
 
+## Business Problem
+
+Ecommerce companies often struggle to understand where customers drop off in the purchase journey.
+
+The goal of this project is to analyze the ecommerce funnel and identify:
+
+- Where the largest user drop-offs occur
+- What factors drive revenue changes
+- Opportunities to improve conversion rates
+
+---
+
 # Project Overview
 
 This project analyzes the **Google Analytics 4 public ecommerce dataset** to identify where users drop off in the purchase funnel and what factors drive revenue changes.
@@ -54,6 +66,18 @@ Key funnel metrics include:
 - Conversion rates
 - Drop-off analysis
 - Revenue contribution
+
+---
+## Key Metrics
+
+The following metrics were analyzed:
+
+- Funnel conversion rate
+- Add-to-cart rate
+- Checkout completion rate
+- Purchase rate
+- Average Order Value (AOV)
+- Total Revenue
 
 ---
 
